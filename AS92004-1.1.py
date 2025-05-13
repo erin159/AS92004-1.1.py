@@ -66,11 +66,11 @@ elif final_question == "no":
     total_cost = 0
 
 if chosen_activity == 1:
-    print(f"your name is {camper_name}, you are {age} years old, the activity you choose was {name_of_activity}, your meal option you choose was  {name_of_meal}. the total cost is ${activity_cost[0] + transport_cost}")
+    print(f"your name is {camper_name}, you are {age} years old, the activity you choose was {name_of_activity}, your meal option you choose was {name_of_meal}. the total cost is ${activity_cost[0] + transport_cost}")
 elif chosen_activity == 2:
-    print(f"your name is {camper_name}, you are {age} years old, the activity you choose was {name_of_activity}, your meal option you choose was  {name_of_meal}. the total cost is ${activity_cost[1] + transport_cost}")
+    print(f"your name is {camper_name}, you are {age} years old, the activity you choose was {name_of_activity}, your meal option you choose was {name_of_meal}. the total cost is ${activity_cost[1] + transport_cost}")
 elif chosen_activity == 3:
-    print(f"your name is {camper_name}, you are {age} years old, the activity you choose was {name_of_activity}, your meal option you choose was  {name_of_meal}. the total cost is ${activity_cost[2] + transport_cost}")
+    print(f"your name is {camper_name}, you are {age} years old, the activity you choose was {name_of_activity}, your meal option you choose was {name_of_meal}. the total cost is ${activity_cost[2] + transport_cost}")
 
 
 
