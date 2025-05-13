@@ -10,6 +10,8 @@ if age < min_age:
     print("Sorry you are to young to join the camp")
 if age > max_age:
     print("Sorry you are to old to join the camp")
+if age > 15:
+    input("Do you want to be a camp leader at the camp you choose to be at?")
 
 # Choosing a activity to do
 activity_cost =[800, 400, 900]
